@@ -1,0 +1,59 @@
+Project Charter :
+
+1. Project Name : XYZ 
+
+2. Date Of Authorization Start : XYZ
+
+3. Date Of Authorization End :  XYZ
+
+4. Project Manager : XYZ
+
+5. Project Sponser : XYZ
+
+6. Project Objectives : 
+- Develop a user-friendly and efficient system for XYZ
+- It Provide a central online hub for class resources, communication, and interaction.
+
+7. Project Scope:
+- Home Page Design and Development 
+- ecure Payment Gateway Integration
+
+8. Budget Information :
+Software & Tools: $200000
+Parsonnel Cost : $1200000
+Total Budget: $1400000
+
+
+9. Project Milestones :
+- Phase 1: Planning & Design 
+- Phase 2: Development
+- Phase 3: Deployment & Launch
+
+10. Risk Management :
+- Technical challenges 
+- Budget overruns 
+- Schedule delays  
+
+11. Stakeholder
+- Project Manager 
+- Project Sponsor 
+- Development Team (Developers, Designers, Testers) 
+- Marketing Team 
+- Customers 
+
+
+
+
+Project Management Plan
+Project Initiation: Define requirements, feasibility study, stakeholder meetings.
+Project Planning: Timeline, milestones, and resource allocation.
+Technology Stack: Frontend (HTML, CSS, JS), Backend (Express.js, MongoDB).
+Design Phase: UI/UX design, database schema, and system architecture.
+Development Phase: Implement book/member management, circulation module, and reports.
+Testing Phase: Unit, integration, and user acceptance testing.
+Deployment Phase: Host system, train staff, and roll out in phases.
+Monitoring & Maintenance: Regular updates, bug fixes, and feedback evaluation.
+Risk Management: Backup strategies, security measures, and user training.
+Project Closure: Final testing, documentation, stakeholder approval, and handover.
+
+
